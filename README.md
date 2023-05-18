@@ -1,4 +1,6 @@
 # OSS Automation Server
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Foss-example-automation.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2Foss-example-automation?ref=badge_shield)
+
 
 The OSS Automation Server is an example of a server that handles Automation callbacks from Avaya OSS.  This example has been written as a Spring Boot application.  The example just logs any messages it receives.  It can be used as a basis for actual automation.
 
@@ -41,3 +43,7 @@ auth.type=basic
 
 As you can see, the example server can be run on any port.  It can be run with or without security.  You can choose one of two common authentication schemes and pick any user and password string.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Foss-example-automation.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2Foss-example-automation?ref=badge_large)
